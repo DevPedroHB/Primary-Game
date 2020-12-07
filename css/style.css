@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #1E90FF,#00BFFF,#00BFFF,#1E90FF);
+}
+
+.container{
+    text-align: center;
+}
+
+.titulo{
+    font-family: Monotype Corsiva;
+    font-size: 3em;
+}
+
+.titulo:hover{
+    color: #00008B;
+}
+
+.creditos{
+    font-family: Monotype Corsiva;
+    font-size: 2em;
+}
+
+.creditos:hover{
+    color: #00008B;
+    text-decoration: underline;
+}
+
+#tabela-jogo{
+    display: none;
+}
+#form-tentativa{
+    display: none;
+}
+#tabela-jogadores{
+    display: none;
+}
+#jogar-novamente{
+    display: none;
+}
